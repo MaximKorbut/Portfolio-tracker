@@ -1,0 +1,7 @@
+crypto-portfolio/
+│
+├── backend/
+├── frontend/
+├── README.md
+├── .gitignore
+└── LICENSE
