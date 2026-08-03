@@ -1,0 +1,18 @@
+# Crypto Portfolio Tracker
+
+A full-stack cryptocurrency portfolio tracker built with FastAPI and JavaScript.
+
+## Features
+
+- Live cryptocurrency prices
+- Portfolio value calculation
+- Responsive UI
+- REST API
+- Dark mode
+
+## Stack
+
+- Python
+- FastAPI
+- JavaScript
+- HTML/CSS
